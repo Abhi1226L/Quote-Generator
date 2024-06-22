@@ -31,7 +31,7 @@ A simple web application that displays random quotes with a stylish UI, built us
 
 ## What I learned
 
- I learnt using of CSS properties like background-size,position and using Math property that is random for generating array number in javascript while the button is clicked
+ I learned how to use CSS properties such as `background-size` and `background-position`, and how to use the JavaScript `Math.random` method for generating array numbers when a button is clicked.
 
  ## Author
 
